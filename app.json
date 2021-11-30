@@ -1,6 +1,6 @@
 {
-    "name": "Amdibell v0.16.8",
-    "description": "Amdibell is a chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
+    "name": "Alora v2",
+    "description": "Alorw is a chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.ibb.co/HTZDMQX/LOGO.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai", "Amdibell"],
     "repository": "https://github.com/BlackVampired/Amdibell",
@@ -52,7 +52,7 @@
         "CAP": {
             "description": "Set your caption under medias.",
             "required": true,
-            "value": "ᴳᵉⁿᵉʳᵃᵗᵉᵈ ᴮʸ 𝖰𝗎𝖾𝖾𝗇 𝖠𝗆𝖽𝗂𝖻𝖾𝗅𝗅 ₂₀₂₁"
+            "value": "⛄𝘎𝘌𝘕𝘌𝘙𝘈𝘛𝘌𝘋 𝘉𝘠 𝘈𝘓𝘖𝘙𝘈 ₂₀₂₁"
         },
         "MUTE_MESSAGE": {
             "description": "Group එකක් mute කිරිමෙදි ලැබෙන පනිවිඩය. ඔබට මෙම පණිවිඩය වෙනස් කිරීමට අවශ්‍ය නැතිනම් default ටයිප් කරන්න.",
@@ -67,12 +67,12 @@
         "ALIVE_LOGO": {
             "description": "Alive පණිවිඩ ලාංඡනය. රූපය වෙනස් කිරීමට පහත ඔබේ පින්තුර ඇතුළු කරන්න.",
             "required": true,
-            "value": "https://i.ibb.co/HTZDMQX/LOGO.jpg"    
+            "value": "https://i.ibb.co/J2rwPPj/20211107-201343.jpg"    
         },
         "WELCOME_LOGO": {
             "description": "පිළිගැනීමේ පණිවිඩ Logo. රූපය වෙනස් කිරීමට පහත ඔබේ පින්තුර ඇතුළු කරන්න. ",
             "required": true,
-            "value": "https://i.ibb.co/d54sGdd/f2097d7ddc39.jpg"
+            "value": "https://i.ibb.co/J2rwPPj/20211107-201343.jpg"
         },
         "BYE_LOGO": {
             "description": "රූපය වෙනස් කිරීමට පහත ඔබේ පින්තුර ඇතුළු කරන්න.",
@@ -146,7 +146,7 @@
         "GAN_IMAGE": {
             "description": "මෙය වෙනස් කිරිමට අත්‍යාවශ්‍යම නොවේ.",
             "required": true,
-            "value": "https://i.ibb.co/mT0KMwh/LOGO.jpg"
+            "value": "https://i.ibb.co/J2rwPPj/20211107-201343.jpg"
         },
         "NO_ONLINE": {
             "description": "මෙය වෙනස් කිරිමට අත්‍යාවශ්‍යම නොවේ.",
