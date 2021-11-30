@@ -1,6 +1,6 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/BlackVampired/Amdibell /root/Amdibell
+RUN git clone https://github.com/YAUWAx/AloraV2 /root/Amdibell
 WORKDIR /root/Amdibell/
 ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
