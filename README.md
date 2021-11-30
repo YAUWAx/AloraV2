@@ -1,9 +1,9 @@
-<h2 align="center"> 🕵🔑🕯🎩☠️ Hellow ☠️🎩🕯🔑🕵 <br>I'm <br>⚖️🐝Black Vampired🐝⚖️</h1>
+<h2 align="center"> 🕵🔑🕯🎩☠️ Hellow ☠️🎩🕯🔑🕵 <br>I'm <br>⚖️🐝YAUWAx🐝⚖️</h1>
 <h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
 
 <div align="center">
-  <img src="https://i.ibb.co/HTZDMQX/LOGO.jpg" width="300" height="300">      
-  <h1>👸QUEEN AMDIBELL👸</h1>
+  <img src="https://i.ibb.co/XZTGnHZ/flash-wall-4602181178957787.jpg" width="300" height="300">      
+  <h1>👸QUEEN AORAL👸</h1>
 
 	  
 	
