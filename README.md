@@ -97,7 +97,7 @@ HAVE A FUN!
 
 ### step 2
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackVampired/Amdibell)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/YAUWAx/AloraV2)
 
 
 
