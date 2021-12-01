@@ -1,7 +1,13 @@
+/* Copyright (C) 2021 AmdA.
 
+Licensed under the  GPL-3.0 License;
+you may not use this file except in compliance with the License.
+
+Amdibell - AmdA
+*/
 
 const Asena = require('../events');
-const {MessageType, MessageOptions, Mimetype, Presence} = require('@adiwajshing/baileys');
+const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const {spawnSync} = require('child_process');
 const Config = require('../config');
 const chalk = require('chalk');
@@ -13,59 +19,26 @@ const Lang = Language.getString('system_stats');
 
 if (Config.WORKTYPE == 'private') {
 
-    Asena.addrex({pattern: 'alive', fromMe: true,  deleteCommand: false,  desc: Lang.ALIVE_DESC}, (async (message, match) => {
+    Asena.addCommand({pattern: 'alive', fromMe: true, desc: Lang.ALIVE_DESC}, (async (message, match) => {
 
         if (Config.ALIVEMSG == 'default') {
             
-            const buttons = [
-  {buttonId: 'MENU', buttonText: {displayText: 'I am Fine 🤭'}, type: 1},//jakakkak
-  {buttonId: 'MNU', buttonText: {displayText: 'Bad Day 😪'}, type: 1},
- ]
-
-const btn = {
-   // imageMessage: 'https://telegra.ph/file/cd35928cef2be17d339c1.jpg',
-    contentText: "▷ How Are You ▷",
-    footerText: 'ALORA 🎻V2 ▷',
-    buttons: buttons,
-    headerType: 1
-}
-
-            
-            var image = await axios.get ('https://i.ibb.co/XZTGnHZ/flash-wall-4602181178957787.jpg', {responseType: 'arraybuffer'})
+            var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```Hey There! I'm Online now. 🍁```\n\n🍁 My name : ❰🍁🔱 T Rex BOT 🔱🍁❱\n\n🍁 Developer: HIRUWA\n\n🍁Thank You For Using ❰🍁🔱  T Rex BOT  🔱🍁❱"})
-            
-        await message.client.sendMessage (message.jid, btn, MessageType.buttonsMessage)
-
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```👸💎 Hey There! I'm Online now. 😙```\n\n*Version:* ```v1.5 - Stable```\n\n*Developer:* ```KgAmda```\n\n*WhatsApp Support Group :* https://chat.whatsapp.com/J7EdUBd7E2OIsXOOeAHcuT\n\n*Youtube channel :* https://www.youtube.com/channel/UCQIo_J1z2MdVeKlY7Wh9TUA\n\n```Thank You For Using Amdibell❤```"})
 
     }
     else {
-        const buttons = [
-  {buttonId: 'MENU', buttonText: {displayText: 'I am Fine 🤭'}, type: 1},//jakakkak
-  {buttonId: 'MNU', buttonText: {displayText: 'Bad Day 😪'}, type: 1},
-  ]
-const btn = {
-   // imageMessage: 'https://i.ibb.co/XZTGnHZ/flash-wall-4602181178957787.jpg',
-    contentText: "▷ CLICK MENU BUTTON TO GET MENU ▷",
-    footerText: 'BY ALORA ▷',
-    buttons: buttons,
-    headerType: 1
-}
-
-
-
             
-            var image = await axios.get ( Config.AL , {responseType: 'arraybuffer'})
+            var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.ALIVEMSG + '\n\n*❰🍁🔱  T Rex BOT  🔱🍁❱*' })
-        await message.client.sendMessage (message.jid, btn, MessageType.buttonsMessage)
-
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.ALIVEMSG + '\n\n*Copyright © 2021 | 𝖰𝗎𝖾𝖾𝗇 𝖠𝗆𝖽𝗂𝖻𝖾𝗅𝗅*' })
      }
     }));
 
-    Asena.addrex({pattern: 'sysd', fromMe: true,  deleteCommand: false,  desc: Lang.SYSD_DESC, dontAddCommandList: true}, (async (message, match) => {
+    Asena.addCommand({pattern: 'sysd', fromMe: true, desc: Lang.SYSD_DESC}, (async (message, match) => {
 
-        if (message.jid === '393475528094-1415817281@g.us') {
+        if (message.jid === '905524317852-1612300121@g.us') {
 
             return;
         }
@@ -75,85 +48,29 @@ const btn = {
             '```' + child + '```', MessageType.text
         );
     }));
-
-    Asena.addrex({pattern: 'version', fromMe: true,  deleteCommand: false,  desc: Lang.BOT_V}, (async (message, match) => {    
-    
-        await message.client.sendMessage(message.jid, 
-                `*❰🍁🔱  T Rex BOT  🔱🍁❱*\n\n` + 
-                '```Installed version :```\n' +
-                ' V 3.0.0 Public'+
-                `\n\n🍁 Check github for bot: https://github.com/Dark-Knight-Hiruwa/T-REX`
-           , MessageType.text);
-            
-        }));
 }
 else if (Config.WORKTYPE == 'public') {
 
-    Trex.addrex({pattern: 'alive', fromMe: false, desc: Lang.ALIVE_DESC}, (async (message, match) => {
+    Asena.addCommand({pattern: 'alive', fromMe: false, desc: Lang.ALIVE_DESC}, (async (message, match) => {
 
         if (Config.ALIVEMSG == 'default') {
             
-            const buttons = [
-  {buttonId: 'MENU', buttonText: {displayText: 'I am Fine 🤭'}, type: 1},//jakakkak
-  {buttonId: 'MNU', buttonText: {displayText: 'Bad Day 😪'}, type: 1},
- ]
-
-const btn = {
-   // imageMessage: 'https://telegra.ph/file/cd35928cef2be17d339c1.jpg',
-    contentText: "❤ HOW ARE YOU ❤",
-    footerText: 'BY ALORA V2🎻 ▷',
-    buttons: buttons,
-    headerType: 1
-}
-
-            
-            var image = await axios.get ('https://i.ibb.co/XZTGnHZ/flash-wall-4602181178957787.jpg', {responseType: 'arraybuffer'})
+            var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
        
-
-       await message.client.updatePresence(message.jid,Presence.composing)
-
-        await new Promise(r => setTimeout(r, 1000));
-
- 
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```Hey There! I'm Online now. 🍁```\n\n🍁 My name : ❰🍁🔱 T Rex BOT 🔱🍁❱\n\n🍁 Developer: HIRUWA\n\n🍁Thank You For Using ❰🍁🔱  T Rex BOT  🔱🍁❱"})
-            
-        await message.client.sendMessage (message.jid, btn, MessageType.buttonsMessage)
-
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```👸💎 Hey There! I'm Online now. 😙```\n\n*Version:* ```v1.5 - Stable```\n\n*Developer:* ```KgAmda```\n\n*WhatsApp Support Group :* https://chat.whatsapp.com/J7EdUBd7E2OIsXOOeAHcuT\n\n*Youtube channel :* https://www.youtube.com/channel/UCQIo_J1z2MdVeKlY7Wh9TUA\n\n```Thank You For Using Amdibell❤```"})
 
     }
     else {
-        const buttons = [
-  {buttonId: 'MENU', buttonText: {displayText: 'i am Fine 🤭'}, type: 1},//jakakkak
-  {buttonId: 'MEN', buttonText: {displayText: 'Bad Day 😪'}, type: 1},
-  ]
-const btn = {
-   // imageMessage: 'https://i.ibb.co/XZTGnHZ/flash-wall-4602181178957787.jpg',
-    contentText: "❤ HOW ARE YOU ❤",
-    footerText: 'BY 🎻ALORA-V2 ▷',
-    buttons: buttons,
-    headerType: 1
-}
-
-
-
             
-            var image = await axios.get ( Config.AL , {responseType: 'arraybuffer'})
+            var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
        
-
-       await message.client.updatePresence(message.jid,Presence.composing)
-
-        await new Promise(r => setTimeout(r, 1000));
-
- 
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.ALIVEMSG + '\n\n*❰🍁🔱  T Rex BOT  🔱🍁❱*' })
-        await message.client.sendMessage (message.jid, btn, MessageType.buttonsMessage)
-
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.ALIVEMSG + '\n\n*Copyright © 2021 | 𝖰𝗎𝖾𝖾𝗇 𝖠𝗆𝖽𝗂𝖻𝖾𝗅𝗅*' })
      }
     }));
 
-    Asena.addrex({pattern: 'sysd', fromMe: true,  deleteCommand: false,  desc: Lang.SYSD_DESC, dontAddCommandList: true}, (async (message, match) => {
+    Asena.addCommand({pattern: 'sysd', fromMe: false, desc: Lang.SYSD_DESC}, (async (message, match) => {
 
-        if (message.jid === '393475528094-1415817281@g.us') {
+        if (message.jid === '905524317852-1612300121@g.us') {
 
             return;
         }
@@ -163,15 +80,4 @@ const btn = {
             '```' + child + '```', MessageType.text
         );
     }));
-
-    Asena.addrex({pattern: 'version', fromMe: false, desc: Lang.BOT_V}, (async (message, match) => {    
-    
-        await message.client.sendMessage(message.jid, 
-                `*❰🍁🔱  T Rex BOT  🔱🍁❱*\n\n` + 
-                '```Installed version :```\n' +
-                ' V 3.0.0 - Public'+
-                `\n\n🍁 Check github for bot:  https://github.com/Dark-Knight-Hiruwa/T-REX`
-           , MessageType.text);
-            
-        }));
 }
