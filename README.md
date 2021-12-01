@@ -1,209 +1,154 @@
-<h2 align="center"> 🕵🔑🕯🎩☠️ Hellow ☠️🎩🕯🔑🕵 <br>I'm <br>⚖️🐝YAUWAx🐝⚖️</h1>
-<h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
+#### © Select your language
+  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README-SI.md)
+    
+</a>          
 
-<div align="center">
-  <img src="https://i.ibb.co/XZTGnHZ/flash-wall-4602181178957787.jpg" width="300" height="300">      
-  <h1>👸QUEEN AORAL👸</h1>
 
-	  
-	
+</a>
+
+![logo](https://github.com/xYAZUWA/QueenAlora/blob/c0f45d39f5ce1199735c807b4205cc459a5e8350/20211107_201343.jpg)
+<h1 align="center"><b> 🔹QUEEN ALORA🔹 (∂ємσ) </b></h1>
+
+</a>
+             
 <p align="center">
-  <a href="https://github.com/BlackVampired/Amdibell">
-    <img src="https://komarev.com/ghpvc/?username=BlackVampired&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Queen+Alora&font=Fira%20Code&center=true&width=380&height=50">
 
-  </a>
-  <a href="https://github.com/BlackVampired?tab=followers">
-    <img src="https://img.shields.io/github/followers/BlackVampired?color=ff69b4&label=Followers&style=plastic">
-
-  </a>
+</a>
+<p align="center">
+    Project of  🔹Queen Alora🔺 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගත හැකි Whatsapp රොබෝවෙකි.⚡..🇱🇰
+    <br>
+        <a href="https://chat.whatsapp.com/">Support Group</a> |
+        <a href="https://Wa.me/+94762175136">xYAZUWA Whatsapp </a> |
+   </a>    
+        
+  <p align="center">
+<a href="https://t.me/alorawa"><img title="Author" src="https://img.shields.io/badge/BOT -CHANNEL-/JulieMwol?color=blue&style=for-the-badge&logo=telegram"></a>
 </p>
-	
-	
+   </a>
+</p>
 <p align="center">
-  <a href="https://github.com/BlackVampired"><img alt="GitHub Clones" src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Docker pulls&query=count&url=https://github.com/agentnox/8gh32jk565/blob/main/automated_repo.json?raw=True&logo=github"></a>
+  <a href="https://github.com/xYAZUWA/QueenAlora.>
+    <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square"/></a>
   
   </a>
-  <a href="https://github.com/BlackVampired">
-    <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square&logo=github&label=Image Size">
+  <a href="https://github.com/xYAZUWA/QueenAlora.">
+    <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square">
     
   </a>
 </p>
 
 <p align="center">
-
-  <a href="https://github.com/BlackVampired">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBBlackVampired%2FAmdibell&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+  <a href="https://github.com/xYAZUWA/QueenAlora.">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FxYAZUWA2%2FQueenAlora.&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
-  <a href="https://github.com/BlackVampired/fork">
-    <img src="https://img.shields.io/github/forks/BlackVampired/Amdibell?label=Fork&style=social">
+  <a href="https://github.com/xYAZUWA/QueenAlora.fork">
+    <img src="https://img.shields.io/github/forks/xYAZUWA/QueenAlora.?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/BlackVampired/stargazers">
-    <img src="https://img.shields.io/github/stars/BlackVampired/Amdibell?style=social">
+  <a href="https://github.com/xYAZUWA/QueenAlora./stargazers">
+    <img src="https://img.shields.io/github/stars/xYAZUWA/QueenAlora.?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="httsp://github.com/BlackVampired">
-    <img src="https://img.shields.io/github/repo-size/BlackVampired/Amdibell?color=purple&label=Repo%20Size&style=plastic">
+  <a href="httsp://github.com/xYAZUWA/QueenAlora.">
+    <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Boyutu&style=plastic">
 
   </a>
-  <a href="httsp://github.com/BlackVampired">
-    <img src="https://img.shields.io/github/license/BlackVampired/Amdibell?color=purple&label=License&style=plastic">
+  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="httsp://github.com/BlackVampired">
-    <img src="https://img.shields.io/github/languages/top/BlackVampired/Amdibell?color=purple&label=Javascript&style=plastic">
+  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated">
+    <img src="https://img.shields.io/github/languages/top/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="httsp://github.com/BlackVampired">
-    <img src="https://img.shields.io/static/v1?label=Author&message=kg%20Vampired&color=purple&style=plastic">
+  <a href="https://github.com/phaticusthiccy">
+    <img src="https://img.shields.io/static/v1?label=Author&message=x%20YAZUWA&color=purple&style=plastic">
 
   </a>
-  </p>
- <p align="center">
-  <a href="https://wa.me/94761444438">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-%20Vampired%20-purple&style=plastic">
+  <a href="https://wa.me/94762175136">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-x%20Yazuwa%20-purple&style=plastic">
 
   </a>
 </p>
 
+### 👩‍🦰ක්‍රියාත්මක කරන්නෙ කෙසේද??
+
+#### සරල ක්‍රමය
+
+#### ඔබට පහසුවෙන්ම Repl.it මඟින් QR ගන්න පුලුවන්..පහල  බටනය භාවිත කරන්න
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@xYAZUWA/Queen-Alora-QR-Code?v=1)
 ```
-
-Amdibell බොට් රැජින WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි.
-අනිසි ලෙස භාවිතා කිරීමේ සියලු ප්‍රතිවිපාක සඳහා පරිශීලකයා වගකිව යුතුය.
-මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි.
-ඊට අමතරව, එය පරිශීලකයින් සඳහා ප්ලග් ඉන් සහාය සක්‍රීය කරයි.
-මුල් මෘදුකාංගයට තමන්ගේම ප්ලගීන සවි කර තමන්ට කැමති පරිදි භාවිතා කරන්න.
-භාවිතය සම්පූර්ණයෙන්ම පරිශීලකයාගේ වගකීමකි. මෙහෙයුම් පද්ධතිය වගකිව යුතු නොවේ.
-විනොද වෙන්න!
+Queen Alora bot ගොඩනැගීමට ඔබට ජංගම දුරකථන 2 ක් අවශ්‍ය වේ!
+ඔබ දෙවන උපාංගයෙන් bot ක්‍රියා කරනු ඇත. 
+ඔබ පළමු උපාංගය සමඟ පමණක් QR කේතය generate කරනු ඇත.
+පළමු උපාංගයෙන් ඔබට Alora Bot install කිරීමට අවශ්‍යයි..
 ```
+#### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?&template=https://github.com/xYAZUWA/QueenAlora.)
 
-```
-Amdibell bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
-The user is responsible for all possible consequences of misuse.
-This is not a Open-Source project. This is just a project that allow you to get deploy a bot.
-Additionally, it enables plug-in support for users.
-Install their own plugins to the original software and use as they please.
-Usage is entirely the responsibility of the user. The operating system is not responsible.
-HAVE A FUN!
-```
-## Simple Metherd
+# 🌺Alora පහසුකම් ලැයිස්තුව
+    Bot සාදාගත්තාට පසු .panel ලෙස ටයිප් කර සෙන්ඩ් කිරිමෙන් මෙය ලබාගත හැකිය.
+ 
 
-### step 1
+## 🌺ꜰʀᴇǫᴜᴇɴᴛʟʏ ᴀꜱᴋᴇᴅ ǫᴜᴇꜱᴛɪᴏɴꜱ (F.A.Q)
+නිතර අසන ප්‍රශ්න කිහිපයකට පිළිතුරු සපයන්න;
 
-[![Run on Repl.it](https://repl.it/badge/github/BlackVampired/Amdibell)](https://replit.com/@KgAmda/Amdibell-QR?v=1)
+### ඔබට මගේ පණිවිඩ කියවිය හැකිද??
+මෙම ව්‍යාපෘතිය විවෘත කේතයක් බැවින් සියලු කේත පැහැදිලි වේ. අඩු හෝ වැඩි නොවේ; ඔබට අවශ්‍ය දේ බැලීමට ඔබට හැකිය. **අපට ඔබගේ ගිණුම් වලට ප්‍රවේශයක් නොමැත.**
 
-### step 2
+### 🔒අපේ ආරක්ෂාව ගැන කුමක් කිව හැකිද?
+ඔබ ආරක්ෂාව ගැන සැලකිලිමත් වන්නේ නම්, ඔබට එය ඔබේම පරිගණකයකින් install කළ හැකිය. වෙනත් අයෙකු ඔබගේ දත්ත ග්‍රහණය කර ගෙන ඇතැයි ඔබ සිතන්නේ නම්, **Whatsapp> Three Dots> Whatsapp Web> Logout**.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/YAUWAx/AloraV2)
+### 💰මෙම බොට් ගෙවිය යුතුද?
+**ඇත්ත වශයෙන්ම නැත.*** එය කිසි විටෙකත් සිදු නොවේ. නමුත් ඔබට අපට donation කළ හැකිය. You can reach me via [Whatsapp](https://wa.me/+94762175136) .
 
-
-
-## 🔎 What Amdibell bot?
-**Queen Amdibell bot,** is a WhatsApp helper bot written by [Amda] and Developed by [mr.pasiya and sithum]. Does not log into your account It is written on WhatsApp Web API.
-
-### The Hard Method (Not Recommend)
-```js
-$ git clone https://github.com/kgamdaofficial.git
-$ cd kg amda duplicated
-$ npm i
-$ nano config.env
-// Config.env oluşturun ve düzenleyin. Örnek: https://github.com/kgamdaofficial/wiki/config.env-Example
-// Create Config.env and edit it. Examle: https://github.com/kgamdaofficial/wiki/config.env-Example
-$ node bot.js
-```
-
-#### AmdA Team
-
-<table>
-										<tbody>
-											<tr>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/fqn5sM7/LOGO.jpg" width="100" height="100" alt="KgAmda"></a></td>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/4my3Tvp/LOGO.jpg" width="100" height="100" alt="Mr.pasiya"></a></td>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/6Nb6hkx/LOGO.jpg" width="100" height="100" alt="no"></a></td>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/gdbjswr/LOGO.jpg" width="100" height="100" alt="sithum"></a></td>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/sWjm7g6/LOGO.jpg" width="100" height="100" alt="AmdiBell"></a></td>
-										                <td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/hYMLjVX/LOGO.jpg" width="100" height="100" alt="Mr.kaviya"></a></td>										                                                                                </tr>
-											<tr>
-												<td><a href="httsp://github.com/BlackVampired">KgAmda</a></br>(Founder)</td>
-												<td><a href="httsp://github.com/BlackVampired/">	Mr.pasiya</a></br>(Co-Admin)</td>
-												<td><a href="httsp://github.com/BlackVampired/">no</a></br>(Public Supportive)</td>
-												<td><a href="httsp://github.com/BlackVampired">	sithum</a></br>(Web developer)</td>
-												<td><a href="httsp://github.com/BlackVampired/">AmdiBell</a></br>(Graphic Designer)</td>
-												<td><a href="httsp://github.com/BlackVampired">Mr.kaviya</a></br>(Group Management)</td>
-											</tbody>
-									</table>
-                  <table>
-										<tbody>
-											<tr>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/3CP2DPR/LOGO.jpg" width="100" height="100" alt="BlackHunt"></a></td>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/cXVY9Yw/LOGO.jpg" width="100" height="100" alt="Gimhana"></a></td>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/nz7BbrN/LOGO.jpg" width="100" height="100" alt="Mr.hasiya"></a></td>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/8gMSvBB/LOGO.jpg" width="100" height="100" alt="Yasas dileepa"></a></td>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/VBzzh95/LOGO.jpg" width="100" height="100" alt="Adeesha"></a></td>
-				                                                        </tr>
-											<tr>
-												<td><a href="httsp://github.com/BlackVampired">BlackHunt</a></br>(Group Management)</td>
-												<td><a href="httsp://github.com/BlackVampired/">Gimhana</a></br>(Group Management)</td>
-												<td><ahref="httsp://github.com/BlackVampired/">Mr.hasiya</a></br>(Ideas)</td>
-												<td><a href="httsp://github.com/BlackVampired">Yasas dileepa</a></br>(group management)</td>
-												<td><a href="httsp://github.com/BlackVampired">Adeesha</a></br>(group management)</td>
-										</tbody>
-									</table>
-
-
-### What does Amda mean?
-[BlackVampired](https://tr.wikipedia.org/wiki/Amda), comes from Turkish mythology. According to Turkish mythology, Asena is a she-wolf that plays an important role.
-
-<details>
-  <summary><h3>Other Questions ❔</h3></summary>
-
-### Changing Branchs on Local Installation
-Amdibell bot uses always **master** branch. If users cloned other branches, they can't able to install it.
-
-</details>
-
-##
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+### ❓ඔබට මෙය නැවත සංස්කරණය කළ හැකිද??
+***අනිවාර්යයෙන් ඔබට හැකියි.*** නමුත් අපෙන් ඔබට කිසිදු සහයක් නොමැත.
 
 ### ⚠️ Warning! 
 ```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
-
-Your account may be banned for the following reasons:
-- Using .ban command for more than one user.
-- Using fake numbers.
-- Spamming Too Much (If someone complains)
+පරිශීලක බොට් නිසා; ඔබගේ WhatsApp ගිණුම banned කළ හැකිය.
+මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියකි, ඔබ කරන සෑම දෙයකටම ඔබ වගකිව යුතුය. 
+නියත වශයෙන්ම,ALORA  විධායකයන් වගකීම භාර නොගනී.
+ALORA  පිහිටුවීමෙන් ඔබ මෙම වගකීම් භාරගෙන ඇති බව සලකනු ලැබේ.
 ```
-	  
-## Visit our official website to install the Whatsapp Bot :
-QR Code generator and full instructions available there.
- 
-					
 
-### License
-This project is protected by the `GNU General Public License v3.0.`
-Do not edit copyright messages!
+## 👨‍💻Developer
 
-### Disclaimer
-`WhatsApp` name, its variations and logo are registered trademarks on Facebook. We have nothing to do with the registered trademark.
+[![Yasindu-xYAZUWA](https://github.com/xYAZUWA.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
 
-	<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/kgamdaofficial?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
-
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=kgamdaofficial&theme=highcontrast&repo=Amdibell)](https://github.com/kgamdaofficial/Amdibell)
-
-</details>
+ ***🆈🅰🆂🅸🅽🅳🆄(xYAZUWA😈)***
+<a href="https://Wa.me/+94762175136">
+    <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
   
+  </a>
 
-	  
+<a href="https://Wa.me/+14382551507">
+    <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
+  
+  </a>
+
+<a href="https://Wa.me/+17722181933">
+    <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
+  
+  </a>
+
+<a href="https://Wa.me/+17723534981">
+    <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
+  
+  </a>
+
+[![Telegram](https://img.shields.io/badge/FindOn-Telegram-green.svg)](https://t.me/)
+[![Instergram](https://img.shields.io/badge/FindOn-Instergram-green.svg)](https://instergram.com/)
+[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+94762175136)
+
+
+## 👽Thanks To
+[![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
+[Yusuf Usta](https://t.me/fusufs)
+
 
