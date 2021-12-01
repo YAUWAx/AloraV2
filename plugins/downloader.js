@@ -32,11 +32,11 @@ Asena.addCommand({ pattern: 'ig ?(.*)', fromMe: false, desc: IG_DESC}, async (me
         const msg = `${type}`
 
 	 if (msg === 'image') { await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.image, {quoted: message.data}, {
-          caption: "Copyright © 2021 | 𝖰𝗎𝖾𝖾𝗇 𝖠𝗆𝖽𝗂𝖻𝖾𝗅𝗅"
+          caption: "Copyright © 2021 |🎻ALORA-V2"
         })}
 		 	 
 	if (msg === 'video') { await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {quoted: message.data}, {
-          caption: "Copyright © 2021 | 𝖰𝗎𝖾𝖾𝗇 𝖠𝗆𝖽𝗂𝖻𝖾𝗅𝗅"
+          caption: "Copyright © 2021 | 🎻ALORA-V2"
         })}
 	
         
@@ -71,7 +71,7 @@ Asena.addCommand({ pattern: 'fb ?(.*)', fromMe: false, desc: FBDESC }, async (me
         const msg = `*${CAPTION}*: ${judul}`
 
         await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {quoted: message.data}, {
-          caption: "Copyright © 2021 | 𝖰𝗎𝖾𝖾𝗇 𝖠𝗆𝖽𝗂𝖻𝖾𝗅𝗅"
+          caption: "Copyright © 2021 | 🎻ALORA-V2"
         })
       })
       .catch(
