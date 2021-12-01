@@ -25,13 +25,13 @@ if (Config.WORKTYPE == 'private') {
 const btn = {
    // imageMessage: 'https://telegra.ph/file/cd35928cef2be17d339c1.jpg',
     contentText: "▷ How Are You ▷",
-    footerText: 'T-REX BOT ▷',
+    footerText: 'ALORA 🎻V2 ▷',
     buttons: buttons,
     headerType: 1
 }
 
             
-            var image = await axios.get ('https://telegra.ph/file/72caf817d141c24cab7cb.jpg', {responseType: 'arraybuffer'})
+            var image = await axios.get ('https://i.ibb.co/XZTGnHZ/flash-wall-4602181178957787.jpg', {responseType: 'arraybuffer'})
        
         await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```Hey There! I'm Online now. 🍁```\n\n🍁 My name : ❰🍁🔱 T Rex BOT 🔱🍁❱\n\n🍁 Developer: HIRUWA\n\n🍁Thank You For Using ❰🍁🔱  T Rex BOT  🔱🍁❱"})
             
@@ -45,9 +45,9 @@ const btn = {
   {buttonId: 'MNU', buttonText: {displayText: 'Bad Day 😪'}, type: 1},
   ]
 const btn = {
-   // imageMessage: 'https://telegra.ph/file/cd35928cef2be17d339c1.jpg',
+   // imageMessage: 'https://i.ibb.co/XZTGnHZ/flash-wall-4602181178957787.jpg',
     contentText: "▷ CLICK MENU BUTTON TO GET MENU ▷",
-    footerText: 'BY T-REX BOT ▷',
+    footerText: 'BY ALORA ▷',
     buttons: buttons,
     headerType: 1
 }
@@ -101,13 +101,13 @@ else if (Config.WORKTYPE == 'public') {
 const btn = {
    // imageMessage: 'https://telegra.ph/file/cd35928cef2be17d339c1.jpg',
     contentText: "❤ HOW ARE YOU ❤",
-    footerText: 'BY T-REX BOT ▷',
+    footerText: 'BY ALORA V2🎻 ▷',
     buttons: buttons,
     headerType: 1
 }
 
             
-            var image = await axios.get ('https://telegra.ph/file/72caf817d141c24cab7cb.jpg', {responseType: 'arraybuffer'})
+            var image = await axios.get ('https://i.ibb.co/XZTGnHZ/flash-wall-4602181178957787.jpg', {responseType: 'arraybuffer'})
        
 
        await message.client.updatePresence(message.jid,Presence.composing)
@@ -127,9 +127,9 @@ const btn = {
   {buttonId: 'MEN', buttonText: {displayText: 'Bad Day 😪'}, type: 1},
   ]
 const btn = {
-   // imageMessage: 'https://telegra.ph/file/cd35928cef2be17d339c1.jpg',
+   // imageMessage: 'https://i.ibb.co/XZTGnHZ/flash-wall-4602181178957787.jpg',
     contentText: "❤ HOW ARE YOU ❤",
-    footerText: 'BY T-REX BOT ▷',
+    footerText: 'BY 🎻ALORA-V2 ▷',
     buttons: buttons,
     headerType: 1
 }
