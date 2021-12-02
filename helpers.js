@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *Amdibell*:  ```" + msg + "```"
+    return "✅ *❮ALORA🎈V➋❯*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *Amdibell*:  ```" + msg + "```"
+    return "🛑 *❮ALORA🎈V➋❯*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *Amdibell*:  ```" + msg + "```"
+    return "⏺️ *❮ALORA🎈V➋❯*:  ```" + msg + "```"
 }
 
 
