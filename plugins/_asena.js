@@ -6,19 +6,19 @@ you may not use this file except in compliance with the License.
 Queen Amdi - Black Amda
 */
 
-const Amdi = require('../events');
+const Asena = require('../events');
 const Config = require('../config');
 const {MessageType} = require('@adiwajshing/baileys');
 const fs = require("fs")
-const amdi = fs.readFileSync('./media/1638411099799-voicemaker.in-speech.mp3')  
+const alora = fs.readFileSync('./media/1638411099799-voicemaker.in-speech.mp3')  
 let LOL = Config.WORKTYPE == 'public' ? false : true
 
 const Language = require('../language');
-const Lang = Language.getString('_amdi');
-const dmenu = "🎻☃️ ●QUEEN ALORQ PANEL● ☃️🎻\n\n"
+const Lang = Language.getString('_asena');
+const dmenu = "🎻☃️ ●QUEEN ALORA PANEL● ☃️🎻\n\n"
 
 
-Amdi.applyCMD({pattern: 'alora ?(.*)', fromMe: LOL, dontAddCommandList: true, deleteCommand: false,}, (async (message, match) => {
+Asena.applyCMD({pattern: 'alora ?(.*)', fromMe: LOL, dontAddCommandList: true, deleteCommand: false,}, (async (message, match) => {
 
     var CMD_HELP = '';
     if (match[1] === '') {
