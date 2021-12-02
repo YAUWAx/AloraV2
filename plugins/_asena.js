@@ -1,9 +1,9 @@
-/* Copyright (C) 2021 Queen Amdi.
+/* Copyright (C) 2021 Alora V2.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-Queen Amdi - Black Amda
+Queen ALora - Yauwax
 */
 
 const Asena = require('../events');
@@ -18,7 +18,7 @@ const Lang = Language.getString('_asena');
 const dmenu = "🎻☃️ ●QUEEN ALORA PANEL● ☃️🎻\n\n"
 
 
-Asena.applyCMD({pattern: 'alora ?(.*)', fromMe: LOL, dontAddCommandList: true, deleteCommand: false,}, (async (message, match) => {
+Asena.addCommand({pattern: 'alora ?(.*)', fromMe: LOL, dontAddCommandList: true, deleteCommand: false,}, (async (message, match) => {
 
     var CMD_HELP = '';
     if (match[1] === '') {
