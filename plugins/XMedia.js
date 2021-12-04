@@ -924,7 +924,7 @@ else if (Config.WORKTYPE == 'public') {
 
     }));
 
-    Asena.addCommand({pattern: 'x4mp4', fromMe: false, dontAddCommandList: true}, (async (message, match
+    Asena.addCommand({pattern: 'x4mp4', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
         if (message.reply_message === false) return await message.sendMessage('*වීඩියෝ අවශ්‍යයි!*');
         var downloading = await message.client.sendMessage(message.jid,'```සංස්කරණය වෙමින් පවති..```',MessageType.text);
         var location = await message.client.downloadAndSaveMediaMessage({
