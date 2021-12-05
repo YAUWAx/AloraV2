@@ -13,7 +13,7 @@ const os = require('os');
 
 let tk = Config.WORKTYPE == 'public' ? false: true
 
-amazone.addCommand({ pattern: 'owner', fromMe: tk, desc: 'down;load passpepr'
+Asena.addCommand({ pattern: 'owner', fromMe: tk, desc: 'down;load passpepr'
 }, (async (message, match) => {
         // send a list message!
         const rows = [{
