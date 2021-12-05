@@ -585,7 +585,42 @@ else if (Config.WORKTYPE == 'public') {
     Asena.addCommand({pattern: 'about', fromMe: false, desc: EFFECT_DESC}, (async (message, match) => {    
 
     await message.sendMessage('🎩WELCOME TO ALORA-V2🎻\n\n❖Alora V2 Is still developing.\n\n❖Also Our Effectimg commands are temporary down. SORRY🎻');
-        
+   
+
+Asena.addCommand({ pattern: 'owner', fromMe: false, desc: 'OWNER_DESX'})
+}, (async (message, match) => {
+        // send a list message!
+        const rows = [{
+                 title: '  🌹𝖭𝖺𝗆𝖾 ', description: "  《《=====●|:|🔅|:|●=====》》\n\n ⌨︎ 𝖢𝗈𝖽𝖾𝖽 𝖻𝗒 - 𝗑𝖸𝖠𝖹𝖴𝖶𝖠 (helps) & 𝖸𝖠𝖴𝖶𝖠𝗑 (Developer) " , rowId: "rowid1"
+           },
+           {
+                 title: '  📝𝖢𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝖫𝖾𝖺𝗋𝗇𝗂𝗇𝗀 ', descrition: "  《《=====●|:|🔅|:|●=====》》\n\n ⚒️ <𝗁𝗍𝗆𝗅> [𝖼𝗌𝗌] " , rowId: "rowid2"
+            },     
+            {  
+                 title: '  🏷️ 𝖫𝗂𝗏𝖾 𝖨𝗇 ', description: "  《《=====●|:|🔅|:|●=====》》\nn 𝖢𝗎𝗋𝗋𝖾𝗇𝗍 𝗅𝗈𝖼𝖺𝗍𝗂𝗈𝗇 - 𝖦𝖺𝗅𝗅𝖾" , rowId: "rowid3"
+            },
+            {
+                  title: '  🛡️ 𝖸𝗈𝗎𝗍𝗎𝖻𝖾 𝖼𝗁𝖺𝗇𝗇𝖾𝗅 ', description: "  《《=====●|:|🔅|:|●=====》》\n\n ▶️ 𝖸𝗈𝗎𝗍𝗎𝖻𝖾 = 𝖸𝖺𝗌𝗂𝗇𝖽𝗎 𝖱𝖺𝗌𝗁𝗆𝗂𝗍𝗁 ➲ ", rowId: "rowid4"
+            },
+                        {
+                  title: '  🟨 WhatsApp Number ', description: "  《《=====●|:|🔅|:|●=====》》\n\𝗇 wa.me//94716314859 ", rowId: "rowid5"
+            }]
+
+        const sections = [{
+            title: "𝖮𝗐𝗇𝖾𝗋 𝖣𝖾𝗍𝖺𝗂𝗅𝗌", rows: rows
+        }]
+
+        const button = {
+            buttonText: 'Click Me',
+            description: "Owner Details",
+            sections: sections,
+            listType: 1
+        }
+
+        await message.client.sendMessage(message.jid, button, MessageType.listMessage)
+
+    
+     
     }));   
         
 }
