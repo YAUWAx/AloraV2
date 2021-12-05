@@ -587,7 +587,7 @@ else if (Config.WORKTYPE == 'public') {
     await message.sendMessage('🎩WELCOME TO ALORA-V2🎻\n\n❖Alora V2 Is still developing.\n\n❖Also Our Effectimg commands are temporary down. SORRY🎻');
    
 
-Asena.addCommand({ pattern: 'owner', fromMe: false, desc: 'OWNER_DESX'})
+Asena.addCommand({ pattern: 'owner', fromMe: false, desc: 'Developer Details'})
 }, (async (message, match) => {
         // send a list message!
         const rows = [{
